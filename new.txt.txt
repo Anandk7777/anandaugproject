@@ -1,4 +1,4 @@
 hi this is my prject
-location
-address
-mobile number
+location: hyderabad
+address: sr nagar
+mobile number:9999999999
